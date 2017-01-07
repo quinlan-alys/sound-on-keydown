@@ -1,4 +1,4 @@
-# sound-on-keydown
+# Sound on Keydown
 
 An edited version of the keydown drumkit
 
